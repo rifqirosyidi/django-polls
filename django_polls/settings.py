@@ -25,7 +25,7 @@ SECRET_KEY = '7s^4=y+nsnnl@wy+j(p6o=nh1ttlnrjp5wk!!%6x)kf(ww^4*-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://my-django-polls-app.herokuapp.com/']
+ALLOWED_HOSTS = ['my-django-polls-app.herokuapp.com']
 
 # Application definition
 
